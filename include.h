@@ -1,0 +1,11 @@
+#pragma once
+#include "Deck.h"
+#include "Hand.h"
+#include "Player.h"
+#include "House.h"
+#include "Card.h"
+#include "GenericPlayer.h"
+#include "Game.h"
+#include <vector>
+#include <string>
+#include <iostream>
